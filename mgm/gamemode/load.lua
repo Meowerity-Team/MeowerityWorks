@@ -4,7 +4,7 @@ print("Meowerity Works alpha " version)
 print("By Meowerity")
 print("-----------------------------------------")
 print("--!--!--!--!--!--!--!--!--!--!--!--!--!-- Meowerity CUI")
-print("This Meowerity Works version is a gamemode to be included in addons.")
-print("and this is for testing purposes only.")
-print("This is not a final version. There will be big updates in the future.")
+dinfo = [[Beta Testing Version
+So as i can see you need the MB key
+please check is it RED-2222-MMMM]]
 print("--!--!--!--!--!--!--!--!--!--!--!--!--!--")
