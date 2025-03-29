@@ -7,4 +7,5 @@ print("--!--!--!--!--!--!--!--!--!--!--!--!--!-- Meowerity CUI")
 dinfo = [[Beta Testing Version
 So as i can see you need the MB key
 please check is it RED-2222-MMMM]]
+print( dinfo )
 print("--!--!--!--!--!--!--!--!--!--!--!--!--!--")
