@@ -1,5 +1,6 @@
+version = 0.1
 print("-----------------------------------------")
-print("Meowerity Works alpha 0.1")
+print("Meowerity Works alpha " version)
 print("By Meowerity")
 print("-----------------------------------------")
 print("--!--!--!--!--!--!--!--!--!--!--!--!--!-- Meowerity CUI")
