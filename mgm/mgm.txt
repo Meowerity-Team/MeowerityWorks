@@ -1,0 +1,7 @@
+"developing"
+{
+	"base"	"base"
+	"title"	"DevMode"
+	"maps"	"^dev_"
+	"menusystem"	"1"
+}
