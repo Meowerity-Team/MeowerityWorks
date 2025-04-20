@@ -1,7 +1,7 @@
 "developing"
 {
 	"base"	"base"
-	"title"	"DevMode"
+	"title"	"Meowerity Works GM"
 	"maps"	"^dev_"
 	"menusystem"	"1"
 }
