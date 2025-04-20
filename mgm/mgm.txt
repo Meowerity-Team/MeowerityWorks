@@ -2,6 +2,6 @@
 {
 	"base"	"base"
 	"title"	"Meowerity Works GM"
-	"maps"	"^dev_"
+	"maps"	"^MW_"
 	"menusystem"	"1"
 }
