@@ -20,3 +20,5 @@ Download this repo or clone it using
 **SSH** _you need a public ssh in github_ `git@github.com:Meowerity-Team/MeowerityWorks.git`
 
 **HTTPS**`https://github.com/Meowerity-Team/MeowerityWorks.git`
+
+Then put mgm folder into Gamemodes folder and select it in start.bat or other
