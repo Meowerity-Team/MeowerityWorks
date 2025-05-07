@@ -1,13 +1,13 @@
 # MeowerityWorks
 This is Meowerity Works repository
 
-#How to run
+# How to run
 
-##With MeowerityInstaller
+## With MeowerityInstaller
 
 _Meowerity Installer in beta_
 
-##Without installer
+## Without installer
 To run it you need a gmod server
 Install it using SteamCMD.exe or using MeowerityHosting(For now not working)
 
