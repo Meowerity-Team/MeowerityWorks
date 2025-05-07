@@ -14,6 +14,9 @@ Install it using SteamCMD.exe or using MeowerityHosting(For now not working)
 > so if you tested it and it work make an issue with header "Successful Linux Run"
 
 Download this repo or clone it using
+
 **Github CLI**`gh repo clone Meowerity-Team/MeowerityWorks`
+
 **SSH** _you need a public ssh in github_ `git@github.com:Meowerity-Team/MeowerityWorks.git`
+
 **HTTPS**`https://github.com/Meowerity-Team/MeowerityWorks.git`
