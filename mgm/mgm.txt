@@ -1,7 +1,7 @@
 "developing"
 {
 	"base"	"base"
-	"title"	"Meowerity Works GM"
+	"title"	"Meowerity Works"
 	"maps"	"^MW_"
 	"menusystem"	"1"
 }
