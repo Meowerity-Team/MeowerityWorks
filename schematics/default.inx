@@ -1,1 +1,4 @@
-
+list = ;
+[/lua-/$inst/addons/srv/lua]
+[/docs-/$inst/docs]
+at 0 with full.cor
